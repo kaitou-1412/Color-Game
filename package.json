@@ -1,0 +1,20 @@
+{
+  "name": "color1game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  	"start": "colorGame.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitou-1412/Color-Game.git"
+  },
+  "author": "Ruban Sahoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaitou-1412/Color-Game/issues"
+  },
+  "homepage": "https://github.com/kaitou-1412/Color-Game#readme"
+}
